@@ -1,0 +1,5 @@
+c:\users\nunez\documents\AyDE2\2-Nuñez-9\2-Nuñez-9\bin\Debug\2-Nuñez-9.exe.config
+c:\users\nunez\documents\AyDE2\2-Nuñez-9\2-Nuñez-9\bin\Debug\2-Nuñez-9.exe
+c:\users\nunez\documents\AyDE2\2-Nuñez-9\2-Nuñez-9\bin\Debug\2-Nuñez-9.pdb
+c:\users\nunez\documents\AyDE2\2-Nuñez-9\2-Nuñez-9\obj\Debug\2-Nuñez-9.exe
+c:\users\nunez\documents\AyDE2\2-Nuñez-9\2-Nuñez-9\obj\Debug\2-Nuñez-9.pdb

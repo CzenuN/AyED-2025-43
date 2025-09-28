@@ -1,0 +1,6 @@
+c:\users\nunez\documents\AyDE\1-Nuñez_Torrez-9\1-Nuñez_Torrez-9\bin\Debug\1-Nuñez_Torrez-9.exe.config
+c:\users\nunez\documents\AyDE\1-Nuñez_Torrez-9\1-Nuñez_Torrez-9\bin\Debug\1-Nuñez_Torrez-9.exe
+c:\users\nunez\documents\AyDE\1-Nuñez_Torrez-9\1-Nuñez_Torrez-9\bin\Debug\1-Nuñez_Torrez-9.pdb
+c:\users\nunez\documents\AyDE\1-Nuñez_Torrez-9\1-Nuñez_Torrez-9\obj\Debug\1-Nuñez_Torrez-9.csprojResolveAssemblyReference.cache
+c:\users\nunez\documents\AyDE\1-Nuñez_Torrez-9\1-Nuñez_Torrez-9\obj\Debug\1-Nuñez_Torrez-9.exe
+c:\users\nunez\documents\AyDE\1-Nuñez_Torrez-9\1-Nuñez_Torrez-9\obj\Debug\1-Nuñez_Torrez-9.pdb

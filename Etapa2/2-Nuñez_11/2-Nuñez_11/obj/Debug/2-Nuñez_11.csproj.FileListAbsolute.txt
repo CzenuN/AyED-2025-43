@@ -1,0 +1,5 @@
+D:\AyED-2025\2-Nuñez_11\2-Nuñez_11\bin\Debug\2-Nuñez_11.exe.config
+D:\AyED-2025\2-Nuñez_11\2-Nuñez_11\bin\Debug\2-Nuñez_11.exe
+D:\AyED-2025\2-Nuñez_11\2-Nuñez_11\bin\Debug\2-Nuñez_11.pdb
+D:\AyED-2025\2-Nuñez_11\2-Nuñez_11\obj\Debug\2-Nuñez_11.exe
+D:\AyED-2025\2-Nuñez_11\2-Nuñez_11\obj\Debug\2-Nuñez_11.pdb

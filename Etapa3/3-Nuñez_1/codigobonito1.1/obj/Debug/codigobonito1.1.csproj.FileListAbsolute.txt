@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\codigobonito1.1\codigobonito1.1\bin\Debug\codigobonito1.1.exe.config
+C:\Users\alumno\Desktop\codigobonito1.1\codigobonito1.1\bin\Debug\codigobonito1.1.exe
+C:\Users\alumno\Desktop\codigobonito1.1\codigobonito1.1\bin\Debug\codigobonito1.1.pdb
+C:\Users\alumno\Desktop\codigobonito1.1\codigobonito1.1\obj\Debug\codigobonito1.1.exe
+C:\Users\alumno\Desktop\codigobonito1.1\codigobonito1.1\obj\Debug\codigobonito1.1.pdb

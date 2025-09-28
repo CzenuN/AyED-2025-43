@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\codigobonito1\codigobonito1\bin\Debug\codigobonito1.exe.config
+C:\Users\alumno\Desktop\codigobonito1\codigobonito1\bin\Debug\codigobonito1.exe
+C:\Users\alumno\Desktop\codigobonito1\codigobonito1\bin\Debug\codigobonito1.pdb
+C:\Users\alumno\Desktop\codigobonito1\codigobonito1\obj\Debug\codigobonito1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\codigobonito1\codigobonito1\obj\Debug\codigobonito1.exe
+C:\Users\alumno\Desktop\codigobonito1\codigobonito1\obj\Debug\codigobonito1.pdb

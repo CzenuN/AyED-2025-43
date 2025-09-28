@@ -1,0 +1,3 @@
+c:\users\nunez\documents\AyDE2\2-Torrez_Nuñez-3\2-Torrez_Nuñez-3\bin\Debug\2-Torrez_Nuñez-3.exe.config
+G:\AyED-2025\Etapa 2\2-Torrez_Nuñez-3\2-Torrez_Nuñez-3\bin\Debug\2-Torrez_Nuñez-3.exe.config
+G:\AyED-2025\Etapa 2\2-Torrez_Nuñez-3\2-Torrez_Nuñez-3\obj\Debug\2-Torrez_Nuñez-3.csprojResolveAssemblyReference.cache

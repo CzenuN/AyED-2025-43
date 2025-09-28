@@ -1,0 +1,6 @@
+c:\users\nunez\documents\AyDE2\2-Nuñez-4\2-Nuñez-4\bin\Debug\2-Nuñez-4.exe.config
+c:\users\nunez\documents\AyDE2\2-Nuñez-4\2-Nuñez-4\obj\Debug\2-Nuñez-4.csprojResolveAssemblyReference.cache
+c:\users\nunez\documents\AyDE2\2-Nuñez-4\2-Nuñez-4\bin\Debug\2-Nuñez-4.exe
+c:\users\nunez\documents\AyDE2\2-Nuñez-4\2-Nuñez-4\bin\Debug\2-Nuñez-4.pdb
+c:\users\nunez\documents\AyDE2\2-Nuñez-4\2-Nuñez-4\obj\Debug\2-Nuñez-4.exe
+c:\users\nunez\documents\AyDE2\2-Nuñez-4\2-Nuñez-4\obj\Debug\2-Nuñez-4.pdb

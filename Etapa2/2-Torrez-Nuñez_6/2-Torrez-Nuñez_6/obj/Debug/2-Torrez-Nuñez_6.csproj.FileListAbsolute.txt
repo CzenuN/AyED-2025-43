@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\documento\AyED-2025\Etapa 2\2-Torrez-Nuñez_6\2-Torrez-Nuñez_6\bin\Debug\2-Torrez-Nuñez_6.exe.config
+C:\Users\alumno\Desktop\documento\AyED-2025\Etapa 2\2-Torrez-Nuñez_6\2-Torrez-Nuñez_6\obj\Debug\2-Torrez-Nuñez_6.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\documento\AyED-2025\Etapa 2\2-Torrez-Nuñez_6\2-Torrez-Nuñez_6\bin\Debug\2-Torrez-Nuñez_6.exe
+C:\Users\alumno\Desktop\documento\AyED-2025\Etapa 2\2-Torrez-Nuñez_6\2-Torrez-Nuñez_6\bin\Debug\2-Torrez-Nuñez_6.pdb
+C:\Users\alumno\Desktop\documento\AyED-2025\Etapa 2\2-Torrez-Nuñez_6\2-Torrez-Nuñez_6\obj\Debug\2-Torrez-Nuñez_6.exe
+C:\Users\alumno\Desktop\documento\AyED-2025\Etapa 2\2-Torrez-Nuñez_6\2-Torrez-Nuñez_6\obj\Debug\2-Torrez-Nuñez_6.pdb
+G:\AyED-2025\Etapa 2\2-Torrez-Nuñez_6\2-Torrez-Nuñez_6\bin\Debug\2-Torrez-Nuñez_6.exe.config
+G:\AyED-2025\Etapa 2\2-Torrez-Nuñez_6\2-Torrez-Nuñez_6\obj\Debug\2-Torrez-Nuñez_6.exe
+G:\AyED-2025\Etapa 2\2-Torrez-Nuñez_6\2-Torrez-Nuñez_6\obj\Debug\2-Torrez-Nuñez_6.pdb
